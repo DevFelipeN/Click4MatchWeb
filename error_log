@@ -1,0 +1,551 @@
+[17-Oct-2022 10:12:35 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:12:35 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:15:45 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:15:45 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:16:03 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:16:03 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:17:04 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:17:04 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:23:07 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:23:07 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:23:17 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:17 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:17 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:17 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:35 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:23:35 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:23:35 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:23:35 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:23:38 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[17-Oct-2022 10:23:38 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[17-Oct-2022 10:23:38 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[17-Oct-2022 10:23:40 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[17-Oct-2022 10:23:40 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[17-Oct-2022 10:23:40 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[17-Oct-2022 10:23:40 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:23:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:00 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:24:01 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:24:03 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:03 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:03 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:24:03 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:15 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:15 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:15 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:15 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:23 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:23 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:23 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:23 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:25 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:25 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:25 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:25 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:26 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:28 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:28 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:28 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:28 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:25:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:31 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:31 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:31 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:31 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:25:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:25:32 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:26:56 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:26:56 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[17-Oct-2022 10:26:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:26:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:26:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:26:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[17-Oct-2022 10:27:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[17-Oct-2022 10:27:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[17-Oct-2022 10:27:32 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 09:35:33 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 09:35:33 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 09:38:56 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 09:38:56 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 09:38:58 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:38:58 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:38:58 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:38:58 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:39:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:39:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:39:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:39:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:40:40 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 09:40:40 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 09:41:00 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 09:41:00 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 09:54:34 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 09:54:34 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 09:54:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:54:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:54:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:54:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 09:54:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 09:54:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 09:54:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 09:54:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 09:55:11 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 09:55:11 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 10:40:27 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 10:40:27 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 17:12:58 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 17:12:58 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 17:15:53 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 17:15:53 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 17:18:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:18:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:18:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:18:46 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:18:56 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:18:56 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:18:56 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:18:56 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:18:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:18:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:18:59 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:08 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:09 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 17:19:09 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 17:19:11 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:11 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:11 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:11 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:17 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:17 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:17 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:19 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:21 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:30 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:34 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 17:19:38 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:38 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:38 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:38 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 370
+[18-Oct-2022 17:19:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:42 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 384
+[18-Oct-2022 17:19:44 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:44 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:44 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:44 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 398
+[18-Oct-2022 17:19:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:19:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 17:51:16 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 17:51:16 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 17:56:47 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 17:56:47 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 18:01:47 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 18:01:47 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 18:06:18 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 18:06:18 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 18:16:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 18:16:30 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 18:21:08 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 18:21:08 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 18:47:43 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 18:47:43 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 18:52:07 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 18:52:07 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 22:14:08 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 22:14:08 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 22:25:12 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 22:25:12 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 22:25:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:25:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:25:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:25:14 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:29:56 America/Fortaleza] PHP Warning:  imagettftext() expects parameter 5 to be int, string given in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/imagem.php on line 31
+[18-Oct-2022 22:30:35 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 22:30:35 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 22:35:22 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 22:35:22 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 22:35:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:35:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:35:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:35:27 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:35:41 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:35:41 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:35:41 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:35:41 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:38:55 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:38:55 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:38:55 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:38:55 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:39:20 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:39:20 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:39:20 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:39:20 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 356
+[18-Oct-2022 22:39:54 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:39:54 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:39:54 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:39:54 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:42:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:42:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:42:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:42:32 America/Fortaleza] PHP Notice:  A non well formed numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 357
+[18-Oct-2022 22:46:18 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 22:46:18 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 22:51:36 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 22:51:36 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:27:05 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:27:05 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:29:13 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 23:29:13 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 23:29:13 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[18-Oct-2022 23:31:13 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:31:13 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:35:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:35:10 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:37:39 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:37:39 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:39:59 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:39:59 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:44:34 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:44:34 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:45:45 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:45:45 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:58:12 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:58:12 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[18-Oct-2022 23:59:17 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[18-Oct-2022 23:59:17 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 11:36:52 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 11:36:52 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 11:38:32 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 11:38:32 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 11:39:38 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 11:39:38 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 11:42:59 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 11:42:59 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 11:43:31 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 11:43:31 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 11:46:23 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 11:46:23 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 11:49:59 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 11:49:59 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 12:38:59 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 12:38:59 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 13:58:06 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 13:58:06 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 14:51:19 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 14:51:19 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 14:51:27 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 14:51:27 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 14:52:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 14:52:10 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 14:55:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 14:55:42 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:00:27 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:00:27 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:07:13 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:07:13 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:17:03 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:17:03 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:18:08 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:18:08 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:18:39 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:18:39 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:19:07 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:19:07 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:19:40 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:19:40 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:19:55 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:19:55 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:20:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:20:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:20:00 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:20:13 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:20:13 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:22:08 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:22:08 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:22:12 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:22:12 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:22:26 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:22:26 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:27:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:27:25 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:29:48 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:29:48 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:31:43 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:31:43 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:31:48 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:31:48 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:32:06 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:32:06 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:32:19 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:32:19 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:32:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:32:20 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:32:24 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:32:24 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:32:35 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:32:35 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:33:09 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:33:09 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:33:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:33:25 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:33:37 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:33:37 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:33:53 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:33:53 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:34:31 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:34:31 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:34:37 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:34:37 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:34:41 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:34:41 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:35:43 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:35:43 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:36:11 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:36:11 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:36:26 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:36:26 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:38:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:38:01 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:38:23 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:38:23 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:43:59 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:43:59 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:44:16 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:44:16 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:44:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:44:42 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:45:13 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:45:13 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:46:48 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:46:48 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:47:15 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:47:15 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:47:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:47:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:47:53 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:47:54 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:47:54 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:49:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:49:25 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:49:40 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:49:40 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:50:33 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:50:33 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:51:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:51:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:51:21 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:51:38 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:51:38 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:51:51 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:51:51 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:51:53 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:51:53 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:53:03 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:53:03 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:53:21 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:53:21 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:53:29 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:53:29 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:54:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:54:01 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:55:11 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:55:11 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:55:11 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:56:02 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:56:02 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:56:05 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:56:05 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:56:14 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:56:14 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:56:26 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:56:26 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:57:24 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:57:24 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:57:28 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:57:28 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:58:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:58:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:58:41 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:59:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:59:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:59:12 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/figura.php on line 107
+[19-Oct-2022 15:59:12 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:59:12 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:59:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:59:25 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:59:51 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:59:51 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 15:59:58 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 15:59:58 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:00:21 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:00:21 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:00:58 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:00:58 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:01:21 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:01:21 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:01:24 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:01:24 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:13:14 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:13:14 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:13:28 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:13:28 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:13:28 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:13:28 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:16:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:16:42 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:18:45 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:18:45 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:19:22 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:19:22 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:21:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:21:42 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:25:21 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:25:21 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:25:45 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:25:45 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:25:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:25:46 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:25:52 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:25:52 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:25:53 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:25:53 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:26:05 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:26:05 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:27:39 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:27:39 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:27:40 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:27:40 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:30:04 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:30:04 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:31:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:31:20 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:31:54 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:31:54 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:32:21 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:32:21 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:33:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:33:01 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:33:23 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:33:23 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:33:29 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:33:29 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:34:36 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:34:36 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:34:52 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:34:52 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:35:07 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:35:07 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:39:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:39:46 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[19-Oct-2022 16:43:19 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[19-Oct-2022 16:43:19 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[23-Oct-2022 01:43:41 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[23-Oct-2022 01:43:41 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[24-Oct-2022 20:51:21 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[24-Oct-2022 20:51:21 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
+[23-Jan-2023 18:40:28 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 4
+[23-Jan-2023 18:40:28 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/cesitc88/seminfo.cesit.com.br/mostra2022/felipe/index.php on line 6
